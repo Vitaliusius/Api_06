@@ -1,0 +1,6 @@
+standard-imghdr
+python-telegram-bot==13.*
+requests==2.32.*
+python-dotenv==1.2.*
+urllib3<2
+environs==14.2.0
